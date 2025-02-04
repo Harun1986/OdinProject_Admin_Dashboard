@@ -22,7 +22,6 @@ master {
   display: grid;
   grid-template-columns: 300px 1fr 1fr 1fr;
   grid-template-rows: 1fr 2fr 2fr 2fr;
-  resize: both;
 }
 
 a {
